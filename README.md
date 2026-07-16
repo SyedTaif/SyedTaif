@@ -4,7 +4,7 @@ Cybersecurity Analyst passionate about SOC Operations, Network Security, and App
 
 SKILLS
 
-Pyhton, Linux, Nmap, Wireshark, Nessus, Brup Suite, OWASP Top 100, Networking, DNS
+Pyhton, Linux, Nmap, Wireshark, Nessus, Burp Suite, OWASP Top 10, Networking, DNS
 
 CURRENT LEARNING
 
