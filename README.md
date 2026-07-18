@@ -136,19 +136,15 @@ Responsive portfolio showcasing web development projects, technical skills, expe
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedTaif&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedTaif&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedTaif&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedTaif&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SyedTaif&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedTaif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
