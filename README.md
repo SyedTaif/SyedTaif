@@ -6,6 +6,12 @@ Passionate about Cybersecurity, SOC Operations, Application Security, and Python
 Currently building real-world cybersecurity projects while continuously improving my offensive and defensive security skills.
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst+Aspirant;Python+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -34,7 +40,7 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,flask,linux,git,github,vscode,html,css,javascript,react" />
+<img src="https://skillicons.dev/icons?i=python,flask,linux,bash,git,github,vscode,html,css,javascript" />
 
 </p>
 
@@ -54,6 +60,11 @@ Currently building real-world cybersecurity projects while continuously improvin
 ## 📂 Featured Projects
 
 ### 🔐 Password Strength Checker
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge)](https://password-strength-checker-wx2n.onrender.com/)
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/Password-Strength-Checker)
+
 ✔ Password Complexity Analysis
 
 ✔ Security Recommendations
@@ -66,6 +77,10 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 ### 📧 Phishing Email Analyzer
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge)](https://phishing-email-analyzer-5lbf.onrender.com)
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/Phishing-Email-Analyzer)
+
 ✔ Suspicious Keyword Detection
 
 ✔ URL Detection
@@ -76,13 +91,25 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 ---
 
-### 🛡️ Cyber Portfolio
+### 🛡️ Cybersecurity Portfolio
 
-A cybersecurity portfolio showcasing practical security projects, technical skills, certifications, and hands-on learning.
+[![Live Demo](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://cyber-portfolio-ugxb.onrender.com)
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/Cyber-Portfolio)
+
+✔ Showcases cybersecurity projects
+
+✔ Skills & Certifications
+
+✔ Live project demonstrations
 
 ---
 
 ### 💼 Personal Portfolio
+
+[![Live Demo](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://portfolio-rho-topaz-x4owcm1yim.vercel.app/)
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/portfolio)
 
 Responsive portfolio showcasing web development projects, technical skills, experience, and contact information.
 
@@ -138,17 +165,11 @@ Responsive portfolio showcasing web development projects, technical skills, expe
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-taif-ahmed-ba8a683bb/)
 
-https://www.linkedin.com/in/syed-taif-ahmed-ba8a683bb/
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://portfolio-rho-topaz-x4owcm1yim.vercel.app/)
 
-📧 Email
-
-syedtaif10@gmail.com
-
-🌍 Portfolio
-
-https://portfolio-rho-topaz-x4owcm1yim.vercel.app/
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:syedtaif10@gmail.com)
 
 ---
 
