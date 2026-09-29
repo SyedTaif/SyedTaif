@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Syed Taif Ahmed</h1>
-<h3 align="center">Cybersecurity Analyst | SOC | Application Security | Python Developer</h3>
+
+<h3 align="center">Cybersecurity Enthusiast | SOC Analyst Aspirant | Security Operations</h3>
 
 <p align="center">
-Passionate about Cybersecurity, SOC Operations, Application Security, and Python Automation.
-Currently building real-world cybersecurity projects while continuously improving my offensive and defensive security skills.
+Focused on SOC operations, security monitoring, threat detection, incident investigation, and practical cybersecurity.
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst+Aspirant;Python+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst+Aspirant;Security+Monitoring;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,17 +16,21 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 ## 🚀 About Me
 
-🎓 BCA Graduate (2024)
+🎓 BCA Graduate – Kolhan University (2024)
 
-🛡️ Currently Learning SOC Operations, SIEM, Threat Hunting & Application Security
+🛡️ Focused on SOC Operations, SIEM, Security Monitoring & Incident Investigation
 
-💻 Building Cybersecurity Tools using Python & Flask
+🔎 Building hands-on cybersecurity labs and practical security projects
 
-🌐 Strong foundation in Networking, Linux & Web Security
+🖥️ Working with Windows, Linux, networking and security monitoring tools
 
-🎯 Goal: SOC Analyst / Application Security Engineer
+📊 Built a Wazuh SOC Home Lab for security event monitoring and alert investigation
 
-📍 Bangalore, India
+🌐 Hands-on practice with network security, vulnerability assessment and web security
+
+🎯 Goal: SOC Analyst / Junior Cybersecurity Analyst
+
+📍 Bengaluru, India
 
 ---
 
@@ -36,7 +40,48 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 </p>
 
-## 🛠️ Tech Stack
+---
+
+## 🛡️ Cybersecurity Skills
+
+### SOC & Security Operations
+
+- Wazuh SIEM
+- Security Monitoring
+- Log Analysis
+- Alert Investigation
+- Authentication Event Analysis
+- Incident Analysis
+
+### Network Security
+
+- TCP/IP
+- DNS
+- Nmap
+- Wireshark
+- Network Enumeration
+- MAC Address Monitoring
+
+### Systems & Security
+
+- Linux
+- Kali Linux
+- Windows
+- Bash
+- OWASP Top 10
+- Vulnerability Assessment
+
+### Application Security
+
+- Burp Suite
+- DVWA
+- OWASP ZAP
+- Web Security
+- HTTP/HTTPS
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="left">
 
@@ -44,20 +89,49 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 </p>
 
-### Cybersecurity Tools
+**Security Tools**
 
-- Nmap
-- Wireshark
-- Burp Suite
-- OWASP Top 10
-- Nessus
-- Metasploit
-- TryHackMe
-- Hack The Box
+`Wazuh` `Nmap` `Wireshark` `Burp Suite` `OWASP ZAP` `Nessus` `Metasploit`
 
 ---
 
 ## 📂 Featured Projects
+
+### 🛡️ Wazuh SOC Home Lab
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/wazuh-soc-home-lab)
+
+✔ Wazuh SIEM deployment and monitoring
+
+✔ Windows 11 and Linux endpoint monitoring
+
+✔ Authentication event analysis
+
+✔ Security alert investigation
+
+✔ Custom security detection rules
+
+✔ SOC incident documentation
+
+---
+
+### 🌐 MAC Address Spoofing Detection & Monitoring
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif)
+
+✔ Linux MAC address monitoring
+
+✔ Controlled MAC address spoofing activity
+
+✔ Bash-based MAC verification
+
+✔ Wazuh custom detection rule
+
+✔ Security alert generation
+
+✔ Network security analysis
+
+---
 
 ### 🔐 Password Strength Checker
 
@@ -69,9 +143,9 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 ✔ Security Recommendations
 
-✔ Flask Web Application
+✔ Python & Flask Web Application
 
-✔ Python Backend
+✔ Regex-based password analysis
 
 ---
 
@@ -85,51 +159,48 @@ Currently building real-world cybersecurity projects while continuously improvin
 
 ✔ URL Detection
 
-✔ Phishing Risk Score
+✔ Phishing Risk Scoring
 
-✔ Flask Based Analyzer
+✔ Security Recommendations
+
+✔ Flask-based Analyzer
 
 ---
 
-### 🛡️ Cybersecurity Portfolio
+### 🖥️ Cybersecurity Portfolio
 
 [![Live Demo](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://cyber-portfolio-ugxb.onrender.com)
 
 [![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/Cyber-Portfolio)
 
-✔ Showcases cybersecurity projects
+✔ Cybersecurity projects
 
-✔ Skills & Certifications
+✔ SOC-focused skills
 
-✔ Live project demonstrations
+✔ Security labs
 
----
-
-### 💼 Personal Portfolio
-
-[![Live Demo](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://portfolio-rho-topaz-x4owcm1yim.vercel.app/)
-
-[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge)](https://github.com/SyedTaif/portfolio)
-
-Responsive portfolio showcasing web development projects, technical skills, experience, and contact information.
+✔ Certifications and achievements
 
 ---
 
 ## 🌱 Currently Learning
 
 - SOC Operations
-- Incident Response
-- SIEM
-- Threat Hunting
-- Malware Analysis
+- SIEM & Security Monitoring
+- Incident Investigation
+- Network Security
+- Threat Detection
+- Vulnerability Assessment
 - Web Application Security
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Training
 
-- Cyber Security Professional – Skillogic *(In Progress)*
-- TryHackMe Labs
+- Cisco Introduction to Cybersecurity
+- Skillogic Cybersecurity Training
+- Skillogic COC
+- Skillogic NOC
 
 ---
 
@@ -140,6 +211,7 @@ Responsive portfolio showcasing web development projects, technical skills, expe
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedTaif&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -152,9 +224,7 @@ Responsive portfolio showcasing web development projects, technical skills, expe
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedTaif&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=SyedTaif&theme=tokyonight" />
 </p>
 
 ---
@@ -163,7 +233,7 @@ Responsive portfolio showcasing web development projects, technical skills, expe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-taif-ahmed-ba8a683bb/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://portfolio-rho-topaz-x4owcm1yim.vercel.app/)
+[![Cybersecurity Portfolio](https://img.shields.io/badge/Cybersecurity_Portfolio-000000?style=for-the-badge&logo=vercel)](https://cyber-portfolio-ugxb.onrender.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:syedtaif10@gmail.com)
 
